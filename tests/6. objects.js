@@ -20,7 +20,7 @@ const fitbitdata = {
     totalMiles      : 211.70,
     avgCalorieBurn  : 5755,
     45              : 'forty five',
-    "full name"       : 'Piyush Gupta'
+    "full name"       : 'Venumadhav'
 }
 
 //Use the dot notation as the 1st preferred choice
